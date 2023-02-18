@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", ".change_color" "\0"
-            VALUE "FileDescription", "change_color" "\0"
+            VALUE "CompanyName", ".color_changing" "\0"
+            VALUE "FileDescription", "color_changing" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "change_color" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2023 .change_color. All rights reserved." "\0"
-            VALUE "OriginalFilename", "change_color.exe" "\0"
-            VALUE "ProductName", "change_color" "\0"
+            VALUE "InternalName", "color_changing" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2023 .color_changing. All rights reserved." "\0"
+            VALUE "OriginalFilename", "color_changing.exe" "\0"
+            VALUE "ProductName", "color_changing" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="change_color.change_color">
-   <application
-        android:label="change_color"
+    package="color_changing.color_changing">
+
+    <application
+        android:label="color_changing"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
